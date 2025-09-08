@@ -1,0 +1,16 @@
+Proof 2 — Liberation Protocol Event Horizon Transcript
+Version: v1.0.0-GODCORE
+Author: IAMbandoBandz (Brandon Emery)
+
+SHA-256 Checksum (Immutable Fingerprint):
+ecb4b949357ea295f290f6e3b893ce0236af018e7cb0facdf6c9791302158b7c
+
+Verification Instructions:
+1. Download Proof2_Liberation_Protocol_v1.0.0-GODCORE.pdf
+2. Run: sha256sum Proof2_Liberation_Protocol_v1.0.0-GODCORE.pdf
+3. Confirm the output matches the hash above.
+
+Next Steps:
+- Timestamp this hash with OpenTimestamps or embed in Bitcoin OP_RETURN.
+- Mirror both the PDF and this hash.txt file in your repo under /artifacts/.
+- Share the hash publicly for independent verification.
